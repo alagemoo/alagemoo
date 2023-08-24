@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alagemoo
 - 👀 I’m interested in UI/UX Designs
-- 🌱 I’m currently learning PHP, HTML5 and Figma
+- 🌱 I’m currently learning Python, C++
 - 💞️ I’m looking to collaborate on UI/UX Projects, Backend Database with PHP connection etc.
 - 📫 How to reach me https://twitter.com/alagemoo
 
